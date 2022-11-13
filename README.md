@@ -6,7 +6,7 @@ Vamos conversar e aumentar essa rede?<br>
 
 
 
-
+#### Meus conhecimentos...
 -   Front-End
 <div style="display: inline-block"><br> 
  <img height="30" width="40" alt="gab-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
