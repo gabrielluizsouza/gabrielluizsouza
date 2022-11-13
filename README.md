@@ -9,11 +9,13 @@ Vamos conversar e aumentar essa rede?<br>
 #### Meus conhecimentos...
 -   Front-End
 <div style="display: inline-block"><br> 
- <img height="30" width="40" alt="gab-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img height="30" width="40" alt="gab-css" src="https://user-images.githubusercontent.com/92898767/201537120-45ceceda-032a-4d87-94ff-5484c078f59a.svg" />
- <img height="30" width="40" alt="gab-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
- <img height="30" width="40" alt="gab-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
- <img height="30" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> 
+ <img height="50" width="40" alt="gab-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="50" width="40" alt="gab-css" src="https://user-images.githubusercontent.com/92898767/201537120-45ceceda-032a-4d87-94ff-5484c078f59a.svg" />
+ <img height="50" width="40" alt="gab-js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+ <img height="50" width="40" alt="gab-react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+ <img height="50" width="40" alt="materialui" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /> 
+ <img height="50" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+  <img height="50" width="40" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div> 
   
 
@@ -21,9 +23,9 @@ Vamos conversar e aumentar essa rede?<br>
 #### Estudando...
 -   Back-End
 <div style="display: inline-block"><br> 
- <img height="30" width="40" alt="gab-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
- <img height="30" width="40" alt="gab-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img height="30" width="40" alt="gab-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ <img height="50" width="40" alt="gab-mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> 
+ <img height="50" width="40" alt="gab-nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ <img height="50" width="40" alt="gab-typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 
 
 </div> 
